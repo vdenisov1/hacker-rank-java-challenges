@@ -2,7 +2,7 @@
 
 Each lesson section is contained within it's own package. Each exercise in it's own class, unless subsequent exercises are related.
 
-- [ ] Introduction
+- [x] Introduction
 - [ ] Strings
 - [ ] BigNumber
 - [ ] Data Structures
