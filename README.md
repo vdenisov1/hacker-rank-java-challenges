@@ -3,7 +3,7 @@
 Each lesson section is contained within it's own package. Each exercise in it's own class, unless subsequent exercises are related.
 
 - [x] Introduction
-- [ ] Strings
+- [x] Strings
 - [ ] BigNumber
 - [ ] Data Structures
 - [ ] Object Oriented Programming
