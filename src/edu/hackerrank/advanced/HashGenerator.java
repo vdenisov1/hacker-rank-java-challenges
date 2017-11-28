@@ -1,3 +1,5 @@
+package edu.hackerrank.advanced;
+
 import javax.xml.bind.DatatypeConverter;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
