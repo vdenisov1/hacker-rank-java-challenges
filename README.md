@@ -4,7 +4,7 @@ Each lesson section is contained within it's own package. Each exercise in it's 
 
 - [x] Introduction
 - [x] Strings
-- [ ] BigNumber
+- [x] BigNumber
 - [ ] Data Structures
 - [ ] Object Oriented Programming
 - [ ] Exception Handling
