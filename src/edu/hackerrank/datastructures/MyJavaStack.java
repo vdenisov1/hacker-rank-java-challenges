@@ -38,5 +38,7 @@ public class MyJavaStack {
 
             System.out.println(correct && stack.empty());
         }
+
+        in.close();
     }
 }

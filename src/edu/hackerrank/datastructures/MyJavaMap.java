@@ -30,5 +30,7 @@ public class MyJavaMap {
                 System.out.println("Not found");
             }
         }
+
+        scan.close();
     }
 }

@@ -29,6 +29,8 @@ public class MyJavaList {
             }
         }
 
+        scan.close();
+
         for(int i = 0; i < list.size(); i++) {
             System.out.print(list.get(i));
             if (i + 1 < list.size()) System.out.print(" ");

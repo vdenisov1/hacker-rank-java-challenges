@@ -37,5 +37,7 @@ public class MyArrayList {
             }
         }
 
+        in.close();
+
     }
 }

@@ -14,5 +14,6 @@ public class HashGenerator {
         md.update(pw.getBytes());
         String hash = DatatypeConverter.printHexBinary(md.digest()).toLowerCase();
         System.out.println(hash);
+        in.close();
     }
 }

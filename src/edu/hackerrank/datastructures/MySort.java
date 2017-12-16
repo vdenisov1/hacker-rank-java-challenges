@@ -20,6 +20,7 @@ public class MySort{
             testCases--;
         }
 
+        in.close();
         Collections.sort(studentList);
 
         for(Student st: studentList){

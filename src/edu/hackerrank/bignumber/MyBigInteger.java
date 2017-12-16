@@ -11,6 +11,7 @@ public class MyBigInteger {
         String a = in.nextLine();
         String b = in.nextLine();
         bigInt.solution(a,b);
+        in.close();
     }
 
     private void solution(String a, String b){

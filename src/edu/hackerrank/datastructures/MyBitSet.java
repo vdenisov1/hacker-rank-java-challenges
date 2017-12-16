@@ -33,5 +33,7 @@ public class MyBitSet {
 
             System.out.format("%d %d\n", bitSetSet[0].cardinality(), bitSetSet[1].cardinality());
         }
+
+        in.close();
     }
 }

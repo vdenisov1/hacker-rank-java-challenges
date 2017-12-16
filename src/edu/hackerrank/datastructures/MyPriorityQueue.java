@@ -15,6 +15,8 @@ public class MyPriorityQueue {
             events.add(event);
         }
 
+        scan.close();
+
         List<pStudent> students = priorities.getStudents(events);
 
         if (students.isEmpty()) {

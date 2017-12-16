@@ -28,6 +28,8 @@ public class MyDeque {
             }
         }
 
+        in.close();
+
         System.out.println(max);
     }
 }

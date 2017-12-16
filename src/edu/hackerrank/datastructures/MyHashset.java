@@ -15,6 +15,8 @@ public class MyHashset {
             pair_right[i] = s.next();
         }
 
+        s.close();
+
         Set<String> distinct = new HashSet<>();
 
         for(int i = 0; i < t; i++){
