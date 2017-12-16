@@ -12,7 +12,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MyTryCatch.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MyTryCatch.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/hackerrank/exceptions/MyTryCatch.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
@@ -20,6 +20,16 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyCalculator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/edu/hackerrank/exceptions/MyCalculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -47,6 +57,7 @@
         <option value="$PROJECT_DIR$/src/edu/hackerrank/datastructures/MyBitSet.java" />
         <option value="$PROJECT_DIR$/src/edu/hackerrank/datastructures/MyPriorityQueue.java" />
         <option value="$PROJECT_DIR$/src/edu/hackerrank/exceptions/MyTryCatch.java" />
+        <option value="$PROJECT_DIR$/src/edu/hackerrank/exceptions/MyCalculator.java" />
       </list>
     </option>
   </component>
@@ -100,6 +111,13 @@
             <path>
               <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
               <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="exceptions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -132,7 +150,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyTryCatch">
+  <component name="RunManager" selected="Application.MyCalculator">
     <configuration name="MyBitSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -141,6 +159,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="edu.hackerrank.datastructures.MyBitSet" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="HackerRank" />
+      <envs />
+    </configuration>
+    <configuration name="MyCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="edu.hackerrank.exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="edu.hackerrank.exceptions.MyCalculator" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -271,16 +308,18 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Application.MyBitSet" />
       <item index="1" class="java.lang.String" itemvalue="Application.MyPriorityQueue" />
       <item index="2" class="java.lang.String" itemvalue="Application.MyTryCatch" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MyCalculator" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.MyTryCatch" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MyPriorityQueue" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MyBitSet" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.MyCalculator" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MyTryCatch" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MyPriorityQueue" />
+        <item index="3" class="java.lang.String" itemvalue="Application.MyBitSet" />
       </list>
     </recent_temporary>
   </component>
@@ -299,12 +338,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513382798975</updated>
-      <workItem from="1513382803468" duration="10807000" />
+      <workItem from="1513382803468" duration="11236000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10807000" />
+    <option name="totallyTimeSpent" value="11236000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1294" height="1407" extended-state="0" />
@@ -390,6 +429,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/hackerrank/exceptions/MyCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
